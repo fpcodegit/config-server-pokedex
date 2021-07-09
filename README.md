@@ -1,4 +1,4 @@
-###Simple config server that will provide centralize configurations for apps
+### Simple config server that will provide centralize configurations for apps
 
 All the needed configuration are in:
 
@@ -13,8 +13,8 @@ https://github.com/fpcodegit/config-server-repo
 
 In the previous Url we provided the specific location from where the UI will consume the API in the heroku environment
 
-#####Deploy instructions
-######Heroku:
+##### Deploy instructions
+###### Heroku:
 1. As the project is gradle based, it required some extra configuration in the build.gradle, the task stage was add
  to work with the Heroku deployment steps.
     ```
