@@ -1,0 +1,1 @@
+web: java -Dserver.port=$PORT $JAVA_OPT -jar build/libs/pokedex-0.0.1-SNAPSHOT.jar
